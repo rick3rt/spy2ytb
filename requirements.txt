@@ -1,0 +1,5 @@
+musicbrainzngs==0.7.1
+numpy==2.4.0
+python-dotenv==1.2.1
+spotipy==2.25.2
+yt-dlp==2025.12.8

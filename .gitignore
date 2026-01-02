@@ -1,0 +1,4 @@
+.env 
+.spotify_cache
+venv/
+downloads/
