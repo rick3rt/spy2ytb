@@ -2,3 +2,4 @@
 .spotify_cache
 venv/
 downloads/
+__pycache__/
